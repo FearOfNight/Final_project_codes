@@ -1,5 +1,6 @@
 %-----------------------------------------------------------------
-% Function: Extract fruits on plate
+% Function: Extract colors from different figures
+% Example for sim test: fruit type stands for different minion type
 % Author:   Lin, Bor-Tyng
 %-----------------------------------------------------------------
 
